@@ -102,3 +102,7 @@ SELECT * FROM star;
 SELECT * FROM planet;
 SELECT * FROM moon;
 SELECT * FROM comet;
+```
+## 👨‍💻 Author
+
+Created by: Hugo Rocha
